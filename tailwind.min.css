@@ -1,0 +1,9 @@
+/* Place ici le tailwind.min.css téléchargé pour usage local */
+
+/* Tailwind CSS v3.4.1 - extrait minifié pour usage local */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Si tu veux un fichier complet, télécharge https://cdn.jsdelivr.net/npm/tailwindcss@3.4.1/dist/tailwind.min.css et colle-le ici. */
+/* Pour un usage local, tu peux aussi copier le contenu du CDN officiel. */
